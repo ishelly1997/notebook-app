@@ -12,4 +12,4 @@ Here you will find the repo for a simple note taking application to help organiz
 
 
 
-Find the application deployed [here] (https://notebook-app-shelly.herokuapp.com/)
+Find the application deployed [here](https://notebook-app-shelly.herokuapp.com/)
